@@ -1,0 +1,16 @@
+{
+    "name": "abc/phpmvc-framework",
+    "description": "an educational purpose framework",
+    "authors": [
+        {
+            "name": "TranTheTuan",
+            "email": "tranthetuan1998hanam@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
